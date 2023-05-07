@@ -1,0 +1,279 @@
+syntax = "proto3";
+
+option csharp_namespace = "MDAS";
+
+package MDAS;
+
+// The MDAS service definition.
+service MDASServiceRPC {
+	
+  //Used for reading instantaneous snapshot of a meter. Request type is InstantaneousSnapshotRequest and response is Reply
+  rpc readInstantaneousSnapshot (InstantaneousSnapshotRequest) returns (Reply);
+  //Used for reading block load data of a meter. Request type is BlockLoadRequest and response is Reply
+  rpc readBlockLoad (BlockLoadRequest) returns (Reply);
+  //Used for reading daily load data of a meter. Request type is DailyLoadRequest and response is Reply
+  rpc readDailyLoad (DailyLoadRequest) returns (Reply);
+  //Used for reading nameplate parameters snapshot of a meter. Request type is NamePlateParamsRequest and response is Reply
+  rpc readNameplateparamsSnapshot (NamePlateParamsRequest) returns (Reply);
+  //Used for reading programmable parameters of a meter. Request type is ProgrammableParamsReadRequest and response is Reply
+  rpc readProgrammableParams (ProgrammableParamsReadRequest) returns (Reply);
+  //Used for writing programmable parameters of a meter. Request type is ProgrammableParamsWriteRequest and response is Reply
+  rpc writeProgrammableParams (ProgrammableParamsWriteRequest) returns (Reply);
+  //Used for reading event logs of a meter. Request type is EventLogRequest and response is Reply
+  rpc readEventLog (EventLogRequest) returns (Reply);
+  //Used for reading billing profile of a meter. Request type is BillingProfileRequest and response is Reply
+  rpc readBillingprofile (BillingProfileRequest) returns (Reply);
+  //notify MDAS engine about configuration change
+  rpc notifyConfigurationChange (ConfigurationUpdateRequest) returns (Reply);
+  //restarting MDAS Engine
+  rpc restartMDASEngine (restartRequest) returns (Reply);
+
+  rpc getTaskList(getTaskListRequest) returns (getTasksReply);
+
+  }
+
+
+//Represents the Instantaneous Snapshot Request
+message InstantaneousSnapshotRequest{
+  string serialNo = 1; //Serial Number of meter
+  string taskID = 2;//Task ID
+}
+
+message restartRequest{}//service has no input
+
+//Represents the Block Load Request
+message BlockLoadRequest{
+  string serialNo = 1; //Serial Number of meter
+  Date_Time fromTime = 2; //From time of block load data to be read
+  Date_Time toTime = 3; //To time of block load data to be read
+  string taskID = 4;//Task ID
+}
+
+//Represents the Daily Load Request
+message DailyLoadRequest{
+  string serialNo = 1; //Serial Number of meter
+  Date_Time fromTime = 2; //From time of daily load data to be read
+  Date_Time toTime = 3;  //To time of daily load data to be read
+  string taskID = 4;//Task ID
+}
+
+//Represents the nameplate parameters Request
+message NamePlateParamsRequest{
+	string serialNo = 1; //Serial Number of meter
+	string taskID = 2;//Task ID
+}
+
+message getTaskListRequest{
+	string serialNo = 1; //Serial Number of meter
+}
+
+message getTasksReply{
+	repeated TaskDetails taskList = 1;
+	enum RequestStatus{
+		Finished = 0;
+		Failed = 1;
+		InvalidSerialNumber = 2;
+	}
+	RequestStatus status = 2;
+}
+
+message TaskDetails{
+	string taskID = 1;
+	TaskType taskType = 2;
+	enum TaskType{
+		MDAS = 0;
+		Grpc = 1;
+	}
+	FunctionType functionType = 3;
+	enum FunctionType{
+		NA = 0;
+        ReadInstantaneousSnapshot = 1; //Scheduleable
+        ReadBlockLoadProfile = 2; //Scheduleable
+        ReadDailyLoadProfile = 3; //Scheduleable
+        ReadBillingProfile = 4; //Scheduleable
+        ReadVoltageEventLog = 5; //Scheduleable
+        ReadCurrentEventLog = 6; //Scheduleable
+        ReadPowerEventLog = 7; //Scheduleable
+        ReadDisconnectControlEventLog = 8; //Scheduleable
+        ReadOtherEventLog = 9; //Scheduleable
+        ReadNonRolloverEventLog = 10; //Scheduleable
+        ReadTransactionEventLog = 11; //Scheduleable
+        ReadNamePlateProfile = 12;
+        ReadProgrammableParameters = 13;
+		WriteProgrammableParameters = 14;
+	}
+	string parameterName = 4;
+	bool isSplitTask = 5;
+	TaskState taskState = 6;
+	enum TaskState{
+		Pending = 0;
+		Running = 1;
+	}
+}
+
+//Represents the programmable parameters read request
+message ProgrammableParamsReadRequest{
+	string serialNo = 1; //Serial Number of meter
+	string paramName = 2; //Parameter's name which has to be read
+	string taskID = 3;//Task ID
+}
+
+//Represents the programmable parameters write request
+message ProgrammableParamsWriteRequest{
+	string serialNo = 1; //Serial Number of meter
+	string paramName = 2; //Parameter's name whose value has to be written with the specified value.
+	Value value = 3; //The value to write.This is another grpc message defined below.
+	string taskID = 4;//Task ID
+}
+
+//Represents event log request
+message EventLogRequest{
+ string serialNo = 1; //Serial Number of meter
+ enum EventType{
+		Voltage = 0;
+		Current = 1;
+		Power = 2;
+		DisconnectControl = 3;
+		Other = 4;
+		NonRollOver = 5;
+		Transaction = 6;
+	} 
+ EventType eventType = 2; //Event type as per the enum definition EventType
+ string taskID = 3;//Task ID
+}
+
+//Represents the Reply response
+message Reply {
+  string message = 1; //Any message from grpc service
+  enum TaskStatus{
+		Finished = 0;
+		Failed = 1;
+		InvalidSerialNumber = 2;
+	}
+	TaskStatus status  = 2; // Task status as per enum definition TaskStatus
+	string serialNo = 3; //Serial Number of meter
+	string taskID = 4;
+}
+
+//Represents the Value message
+message Value{
+	enum Type{
+		long =0;
+		float =1;
+		string =2;
+		boolean = 3;
+		datetime = 4;
+		arrayofdayprofile = 5;
+		arrayofkeys = 6;
+		arrayofweekprofile = 8;
+		arrayofseasonprofile = 9;
+		arrayofsingleaction = 10;
+		arrayofimageactivation = 11; 
+	}
+	Type type = 1; //Type of value as per enum definition Type
+	repeated bytes values = 2; //byte[] to hold the value if the type is basic datatype(long,float,string,boolean)
+	Date_Time time = 3; //to hold the value if the type is datetime
+	repeated DayProfile dayProfiles = 4; // to hold the value if type is arrayofdayprofile
+	repeated KeyProfile keys = 5; // to hold the value if type is arrayofkeys
+	repeated SeasonProfile seasonprofiles = 6; // to hold the value if type is arrayofseasonprofile
+	repeated WeekProfile weekprofiles = 7; // to hold the value if type is arrayofweekprofile
+	repeated SingleAction singleactions = 8; // to hold the value if type is arrayofsingleaction
+	repeated ImageActivationSingleAction imageActivationSingleActions = 9; // to hold the value if type is arrayofimageactivation
+}
+
+//Represents the Date_Time message to hold a date time value
+message Date_Time{
+	int32 date = 1; // date of datetime
+	int32 month = 2; // month of datetime
+	int32 year = 3; // year of datetime
+	int32 hour = 4; // hour of datetime (in 24 hrs)
+	int32 minute = 5; // minutes of datetime
+	int32 second = 6; // seconds of datetime
+}
+
+//Represents the billing profile request
+message BillingProfileRequest{
+	string serialNo = 1; //Serial Number of meter
+	int32 fromEntry = 2; //from entry of array of billing profile values
+	int32 toEntry = 3; //to entry of array of billing profile values
+	string taskID = 4;//Task ID
+}
+
+//Represents  KeyProfile message
+message KeyProfile{
+	enum KeyType{
+		Encryption = 0;
+		Authentication = 1;
+	}
+	KeyType keytype = 1; 
+	string key = 2; //actual key
+}
+
+//Represents DayProfile message
+message DayProfile{
+	int32 dayid = 1; // day id
+    repeated DayAction dayActions = 2; //array of DayAction meesages (DayAction consists of a startime and script selector)
+}
+
+//Represents DayAction message
+message DayAction{
+	Time startTime = 1; //Start time
+    int32 scriptSelector = 2; //Script selector
+}
+
+//Represents SingleAction message
+message SingleAction{
+	Date date = 1; //date
+	Time time = 2; //time
+}
+
+//Represents ImageActivationSingleAction  message
+message ImageActivationSingleAction{
+	Date date = 1; //date
+	Time time = 2; //time
+}
+
+//Represents SeasonProfile  message
+message SeasonProfile{
+	string seasonName = 1; //Season name
+	Date_Time seasonStart = 2; //Start of season
+	string weekName = 3; //week name
+}
+
+//Represents WeekProfile  message
+message WeekProfile{
+	string weekName = 1; //week name
+	int32 monday = 2; //day id from day profile
+	int32 tuesday = 3; //day id from day profile
+	int32 wednesday = 4; //day id from day profile
+	int32 thursday = 5; //day id from day profile
+	int32 friday = 6; //day id from day profile
+	int32 saturday = 7; //day id from day profile
+	int32 sunday = 8; //day id from day profile
+}
+
+//Represents Time  message
+message Time {
+	int32 hour = 1;
+    int32 minute = 2;
+    int32 second = 3;
+}
+
+//Represents Date  message
+message Date{
+	int32 year = 1;
+	int32 month = 2;
+	int32 day = 3;
+}
+
+//Represents a Configuration change information
+message ConfigurationUpdateRequest{
+	enum ConfigurationType{
+		MeterAdd = 0;
+		MeterDelete = 1;
+		GatewayPrefixUpdate = 2;
+	}
+	ConfigurationType configurationType = 1; 
+	string serialNo = 2;
+	string value = 3;
+}

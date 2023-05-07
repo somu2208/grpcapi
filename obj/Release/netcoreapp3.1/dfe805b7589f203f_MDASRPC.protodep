@@ -1,0 +1,2 @@
+obj\Release\netcoreapp3.1\Proto/MDASRPC.cs \
+obj\Release\netcoreapp3.1\Proto/MDASRPCGrpc.cs: Proto/MDASRPC.proto

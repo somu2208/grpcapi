@@ -1,0 +1,400 @@
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\host.json
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\local.settings.json
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.deps.json
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Script.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfoInputs.cache
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfo.cs
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.CoreCompileInputs.cache
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.CopyComplete
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\iBot Metering\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.AssemblyReference.cache
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.AssemblyReference.cache
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.GeneratedMSBuildEditorConfig.editorconfig
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfoInputs.cache
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfo.cs
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.CoreCompileInputs.cache
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\host.json
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\local.settings.json
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.deps.json
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.Http.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.Configuration.AppSettings.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Host.Storage.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Azure.WebJobs.Script.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\NCrontab.Signed.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\IBOT\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.CopyComplete
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IBOT\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\host.json
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\local.settings.json
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.deps.json
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\bin\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.AssemblyInfo.cs
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.dll
+C:\Users\admin\Desktop\iBotMDEgRPCAPICalling\iBotMDEgRPCAPICalling\obj\Debug\netcoreapp3.1\iBotMDEgRPCAPICalling.pdb
